@@ -1,27 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <?import javafx.scene.control.Button?>
-<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextArea?>
 <?import javafx.scene.control.TextField?>
 <?import javafx.scene.layout.AnchorPane?>
-<?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #AFEEEE;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+<AnchorPane fx:id="background" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="406.0" prefWidth="600.0" style="-fx-background-color: #AFEEEE;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.messandger2.ChatController">
    <children>
-      <ListView fx:id="users" layoutX="432.0" prefHeight="317.0" prefWidth="168.0" style="-fx-background-color: #E0FFFF;" />
-      <TextField fx:id="etext" layoutX="14.0" layoutY="355.0" prefHeight="30.0" prefWidth="415.0" />
-      <Button fx:id="send" defaultButton="true" layoutX="455.0" layoutY="355.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="81.0" text="➤" textFill="#0e90e7">
+      <TextField fx:id="etext" promptText="Введите сообщение" layoutX="29.0" layoutY="355.0" prefHeight="30.0" prefWidth="438.0" AnchorPane.bottomAnchor="20.6" AnchorPane.leftAnchor="29.0" AnchorPane.rightAnchor="132.80000000000007" />
+      <Button fx:id="send" defaultButton="true" layoutX="479.0" layoutY="355.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="81.0" text="➤" textFill="#0e90e7" AnchorPane.bottomAnchor="20.6" AnchorPane.rightAnchor="39.400000000000006">
          <font>
             <Font size="14.0" />
          </font>
       </Button>
-      <VBox layoutY="-1.0" prefHeight="318.0" prefWidth="430.0">
-         <children>
-            <VBox fx:id="messeges" prefHeight="319.0" prefWidth="436.0" style="-fx-background-color: #E0FFFF;" />
-         </children>
-      </VBox>
-      <VBox prefHeight="200.0" prefWidth="100.0" />
+      <TextArea fx:id="messages" editable="false" layoutX="32.0" layoutY="14.0" prefHeight="326.0" prefWidth="528.0" style="-fx-background-color: #00FFFF;" AnchorPane.bottomAnchor="65.20000000000005" AnchorPane.leftAnchor="32.0" AnchorPane.rightAnchor="40.0" AnchorPane.topAnchor="14.0" />
    </children>
 </AnchorPane>

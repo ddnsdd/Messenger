@@ -1,0 +1,84 @@
+@startuml
+class com.example.messandger2.ChatController {
+- {static} Logger logger
+- Socket client
+- String lobbyName
+- String username
+- PrintWriter out
+- TextArea messages
+- TextField etext
+- Button send
++ void initialize(Socket,String,String)
+- void sendMessage()
+- void receiveMessages()
+}
+class com.example.mes.HelloController {
+- ResourceBundle resources
+- URL location
+- AnchorPane background
+- TextField etext
+- TextArea messages
+- Button send
+- ListView<?> users
+~ void initialize()
+}
+class com.example.messandger2.Server {
+- {static} int PORT
+- {static} Map<String,List<ClientHandler>> lobbyClients
+- {static} List<String> lobbyList
++ {static} void main(String[])
+}
+class com.example.messandger2.Server$ClientHandler {
+- Socket clientSocket
+- BufferedReader in
+- PrintWriter out
+- String username
+- String lobbyName
++ void run()
+- void sendLobbyList()
+- void joinLobby(String)
+- void leaveLobby()
+- void sendMessageToLobby(String,String,String)
+- void sendLobbyMessage(String,String)
+}
+class com.example.messandger2.LobbyController {
+- {static} Logger lobbyLoger
+- Socket client
+- BufferedReader in
+- PrintWriter out
+- String username
+- boolean isIdentified
+- String lobbyName
+- ComboBox<String> lobbyComboBox
+- Button joinButton
+- Stage lobbyStage
+~ void initialize()
+- boolean checkServerConnection()
+- boolean connectToServer()
+- void connectToLobby(String)
+- void showErrorDialog(String,String,String)
+- List<String> fetchLobbyDataFromServer()
+- void showLoginWindow()
+- void openChatWindow()
++ void setLobbyStage(Stage)
+}
+class com.example.mes.HelloController {
+- ResourceBundle resources
+- URL location
+- AnchorPane background
+- TextField etext
+- TextArea messages
+- Button send
+- ListView<?> users
+~ void initialize()
+}
+class com.example.messandger2.HelloApplication {
++ void start(Stage)
++ {static} void main(String[])
+}
+
+
+com.example.messandger2.Server +.. com.example.messandger2.Server$ClientHandler
+com.example.messandger2.Thread <|-- com.example.messandger2.Server$ClientHandler
+javafx.application.Application <|-- com.example.messandger2.HelloApplication
+@enduml

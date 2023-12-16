@@ -1,0 +1,10 @@
+16:22:06.748 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - Userотправил сообщение
+16:22:43.804 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - eeee отправил сообщение
+16:34:31.843 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - user подключился к серверу
+16:34:31.846 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - user присоединился к Lobby 2
+16:34:43.504 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - user отправил сообщение
+16:34:46.783 [JavaFX Application Thread] ERROR com.example.messandger2.ChatController - user попытался отпрваить пустое сообщение
+17:20:26.959 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - user подключился к серверу
+17:20:26.962 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - user присоединился к Lobby 3
+17:20:29.409 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - user отправил сообщение
+17:20:30.321 [JavaFX Application Thread] ERROR com.example.messandger2.ChatController - user попытался отправить пустое сообщение
