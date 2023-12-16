@@ -55,7 +55,6 @@ public class ChatController {
         }
     }
 
-
     /**
      * Функция отправки сообщения
      */
