@@ -4,82 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a1fd47a-fe0a-47e8-8a03-f849f1f57409" name="Changes" comment="уауауаауау">
-      <change afterPath="$PROJECT_DIR$/ClassUML.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hs_err_pid12176.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hs_err_pid30300.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/allclasses-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/allpackages-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/com.example.messandger2/com/example/messandger2/ChatController.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/com.example.messandger2/com/example/messandger2/HelloApplication.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/com.example.messandger2/com/example/messandger2/LobbyController.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/com.example.messandger2/com/example/messandger2/Server.ClientHandler.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/com.example.messandger2/com/example/messandger2/Server.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/com.example.messandger2/com/example/messandger2/class-use/ChatController.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/com.example.messandger2/com/example/messandger2/class-use/HelloApplication.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/com.example.messandger2/com/example/messandger2/class-use/LobbyController.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/com.example.messandger2/com/example/messandger2/class-use/Server.ClientHandler.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/com.example.messandger2/com/example/messandger2/class-use/Server.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/com.example.messandger2/com/example/messandger2/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/com.example.messandger2/com/example/messandger2/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/com.example.messandger2/com/example/messandger2/package-use.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/com.example.messandger2/module-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/constant-values.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/copy.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/element-list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/help-doc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-12.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-13.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/legal/ADDITIONAL_LICENSE_INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/legal/ASSEMBLY_EXCEPTION" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/legal/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/legal/jquery.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/legal/jqueryUI.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/link.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/member-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/module-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/overview-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/package-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/resources/glass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/resources/x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/script-dir/jquery-3.6.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/script-dir/jquery-ui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/script-dir/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/search-page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/tag-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javadoc/type-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/messandger2/ChatController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/messandger2/LobbyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/messandger2/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/messandger2/lobby.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/messandger2/Client2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/messandger2/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/messandger2/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/messandger2/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/messandger2/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/messandger2/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/messandger2/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/messandger2/hello-view.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="3a1fd47a-fe0a-47e8-8a03-f849f1f57409" name="Changes" comment="Ura Pobeda" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -178,7 +103,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702141062525</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ura Pobeda">
+      <option name="closed" value="true" />
+      <created>1702736703559</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702736703559</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Ura Pobeda">
+      <option name="closed" value="true" />
+      <created>1702736781057</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702736781057</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,7 +136,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="уауауа" />
-    <option name="LAST_COMMIT_MESSAGE" value="уауауа" />
+    <MESSAGE value="Ura Pobeda" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ura Pobeda" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
