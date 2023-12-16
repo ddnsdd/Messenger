@@ -13,3 +13,8 @@
 17:37:17.604 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - СлаваДудин отправил сообщение
 17:37:19.289 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - СлаваДудин отправил сообщение
 17:38:06.714 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - СлаваДудин отправил сообщение
+18:20:27.766 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - fff подключился к серверу
+18:20:27.769 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - fff присоединился к Lobby 2
+18:42:10.541 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - ded подключился к серверу
+18:42:10.544 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - ded присоединился к Lobby 2
+18:42:12.178 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - ded отправил сообщение
