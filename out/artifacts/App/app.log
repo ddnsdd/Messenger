@@ -1,0 +1,19 @@
+19:24:10.112 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - ddd подключился к серверу
+19:24:10.114 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - ddd присоединился к Lobby 2
+19:24:18.432 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - ddd отправил сообщение
+19:24:33.365 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - sdds подключился к серверу
+19:24:33.366 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - sdds присоединился к Lobby 1
+19:24:36.378 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - sdds отправил сообщение
+19:26:25.697 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - aaaa подключился к серверу
+19:26:25.699 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - aaaa присоединился к Lobby 2
+19:26:28.047 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - aaaa отправил сообщение
+19:26:30.848 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - sdds отправил сообщение
+19:26:52.674 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - aaaa подключился к серверу
+19:26:52.676 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - aaaa присоединился к Lobby 2
+19:26:55.371 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - aaaa отправил сообщение
+19:27:10.921 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - iiii подключился к серверу
+19:27:10.923 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - iiii присоединился к Lobby 1
+19:27:19.201 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - iiii отправил сообщение
+19:27:21.056 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - sdds отправил сообщение
+19:27:27.238 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - aaaa отправил сообщение
+19:27:31.508 [JavaFX Application Thread] INFO  com.example.messandger2.ChatController - aaaa отправил сообщение
